@@ -1,3 +1,3 @@
 # My Resume
 
-[MyResume](./MyResume.pdf)
+[embed]./MyResume.pdf[embed]
